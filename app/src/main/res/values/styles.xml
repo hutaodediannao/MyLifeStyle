@@ -15,4 +15,10 @@
         <item name="android:windowFullscreen">true</item>
     </style>
 
+    <style name="StartThem" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
 </resources>
