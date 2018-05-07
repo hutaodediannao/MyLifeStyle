@@ -1,5 +1,8 @@
 # MyLifeStyle
 生活记事本
+
+![](https://github.com/hutaodediannao/MyLifeStyle/blob/master/Screenshot_2018-05-07-20-00-59-732_com.hutao.app..png)
+
 本项目是一个本地记事本的功能，满足人们日常记录的功能，包含拍照，最多三张，文字标题，内容，三项的列表结构展示
 实现原理：
 GreenDao3.0数据库框架统计数据
